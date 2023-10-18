@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Web Tutorials">
+<meta name="keywords" content="HTML, CSS, JavaScript">
+<meta name="author" content="WEIIIIIIIIII">
+<title>志峰合作社</title>
+<style>
+body{background-color:F8F8FF}
+#header{height:150PX,background-color:red;background-image: linear-gradient(blue,grey);padding: 1em}
+h1{
+	color: white;
+	text-align: center;}
+h3{text-align: center;}	
+p{
+font-family:"time";
+font-size: 20px;}
+body{color: white}
+</style>
+</head>
+<body>
+<div id="header">
+<h1><a id="first">志峰合作社</a></h1></div></head>
+<body>
+<div id="header">
+<h1><a id="first">麻將介紹</a></h1></div>
